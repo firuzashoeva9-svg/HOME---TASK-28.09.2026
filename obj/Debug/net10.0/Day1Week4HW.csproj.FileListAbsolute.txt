@@ -1,0 +1,14 @@
+C:\Users\firuz\OneDrive\Desktop\day1week4HW\Day1Week4HW\bin\Debug\net10.0\Day1Week4HW.exe
+C:\Users\firuz\OneDrive\Desktop\day1week4HW\Day1Week4HW\bin\Debug\net10.0\Day1Week4HW.deps.json
+C:\Users\firuz\OneDrive\Desktop\day1week4HW\Day1Week4HW\bin\Debug\net10.0\Day1Week4HW.runtimeconfig.json
+C:\Users\firuz\OneDrive\Desktop\day1week4HW\Day1Week4HW\bin\Debug\net10.0\Day1Week4HW.dll
+C:\Users\firuz\OneDrive\Desktop\day1week4HW\Day1Week4HW\bin\Debug\net10.0\Day1Week4HW.pdb
+C:\Users\firuz\OneDrive\Desktop\day1week4HW\Day1Week4HW\obj\Debug\net10.0\Day1Week4HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firuz\OneDrive\Desktop\day1week4HW\Day1Week4HW\obj\Debug\net10.0\Day1Week4HW.AssemblyInfoInputs.cache
+C:\Users\firuz\OneDrive\Desktop\day1week4HW\Day1Week4HW\obj\Debug\net10.0\Day1Week4HW.AssemblyInfo.cs
+C:\Users\firuz\OneDrive\Desktop\day1week4HW\Day1Week4HW\obj\Debug\net10.0\Day1Week4HW.csproj.CoreCompileInputs.cache
+C:\Users\firuz\OneDrive\Desktop\day1week4HW\Day1Week4HW\obj\Debug\net10.0\Day1Week4HW.dll
+C:\Users\firuz\OneDrive\Desktop\day1week4HW\Day1Week4HW\obj\Debug\net10.0\refint\Day1Week4HW.dll
+C:\Users\firuz\OneDrive\Desktop\day1week4HW\Day1Week4HW\obj\Debug\net10.0\Day1Week4HW.pdb
+C:\Users\firuz\OneDrive\Desktop\day1week4HW\Day1Week4HW\obj\Debug\net10.0\Day1Week4HW.genruntimeconfig.cache
+C:\Users\firuz\OneDrive\Desktop\day1week4HW\Day1Week4HW\obj\Debug\net10.0\ref\Day1Week4HW.dll
